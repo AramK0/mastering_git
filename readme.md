@@ -1,4 +1,5 @@
-## Welcome to ari Git
+## Good morning git
 
-- readme change
+
+-a better change to readme
 -iam adding from 'feature-branch'
